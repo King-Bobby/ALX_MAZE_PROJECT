@@ -51,7 +51,7 @@ int main(int argc, char *argv[]) {
         .quit = false,
     };
 	state.window =
-		SDL_CreateWindow("Raycast",
+		SDL_CreateWindow("MAZE PROJECT",
 						 SDL_WINDOWPOS_CENTERED_DISPLAY(0),
 						 SDL_WINDOWPOS_CENTERED_DISPLAY(0),
 						 SCREEN_WIDTH,
